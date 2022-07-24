@@ -1,5 +1,10 @@
 # walkie-talkie
 
+
+## Tech used
+-Vue 2.7.7
+-VueFire / Firestore
+-Bulma
 ## Project setup
 ```
 npm install
